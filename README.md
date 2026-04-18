@@ -25,5 +25,6 @@ AttentionX automatically converts long videos into short viral clips using AI + 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## Demo video
-https://drive.google.com/file/d/1oMEyH_PCajpNeDZV8YiboXNZ6KPtrAtT/view?usp=sharing
+
+## 🎥 Demo Video
+🔗 https://drive.google.com/file/d/1oMEyH_PCajpNeDZV8YiboXNZ6KPtrAtT/view?usp=sharing
